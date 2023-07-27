@@ -1,15 +1,12 @@
 # todo_app
 
-A new Flutter project.
+A new Flutter project that will help you manage your daily tasks!
 
 ## Getting Started
-![image](https://github.com/HebaAshraf0/ToDo_App/assets/88686875/6e92fa70-a4de-45c8-aff3-7222c74af5d7)  
-![image](https://github.com/HebaAshraf0/ToDo_App/assets/88686875/6e92fa70-a4de-45c8-aff3-7222c74af5d7)
-![image](https://github.com/HebaAshraf0/ToDo_App/assets/88686875/6e92fa70-a4de-45c8-aff3-7222c74af5d7)
+## # you can add a new task here     # fields must not be empty!
+![image](https://github.com/HebaAshraf0/ChatApp/assets/88686875/6561350d-8139-497e-9ee8-57b3b844c147) ![image](https://github.com/HebaAshraf0/ChatApp/assets/88686875/b42eccdb-b6e7-465e-91ca-d0b78bd29c59)
+## # new task was added    # click on green button to move task to done screen # click on black button to move task to archived screen
+![image](https://github.com/HebaAshraf0/ChatApp/assets/88686875/21290d34-0747-47cf-9830-e9251990365e)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## drag to the left or right to delete a task
+![image](https://github.com/HebaAshraf0/ChatApp/assets/88686875/c0040d0f-cad6-4cce-bbdc-50a9fb2cb22a)
