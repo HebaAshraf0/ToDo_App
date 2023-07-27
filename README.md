@@ -3,10 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
+![image](https://github.com/HebaAshraf0/ToDo_App/assets/88686875/6e92fa70-a4de-45c8-aff3-7222c74af5d7)
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
